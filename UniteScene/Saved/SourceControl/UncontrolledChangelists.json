@@ -87,7 +87,28 @@
 				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/__ExternalActors__/UniteScene/2/84/GODXBT6C8LH6CWVIXGM1MB.uasset",
 				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/__ExternalObjects__/UniteScene/7/LP/C3C0Z2X00039720UJ3B9I9.uasset",
 				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/__ExternalActors__/UniteScene/9/ZO/WL1JLZGI10VV07L47VUEAG.uasset",
-				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/UniteScene.umap"
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/UniteScene.umap",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/SpareTextures/normsglass.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Assets/Clutter/condiment_bottle_high.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Assets/Clutter/condiment_bottle_low.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/DawsArtTest.umap",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/condiment_bottle_low_DefaultMaterial_BaseColor.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/condiment_bottle_low_DefaultMaterial_Normal.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/condiment_bottle_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/CondimentBottle.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/KetchupMask.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/LineMask.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/Mustard.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/MustardMask.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/RGBMask.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Assets/Props/ExitSign/exit_sign_high.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Assets/Props/ExitSign/exit_sign_low.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/Ketchup_Text_Mask.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/KetchupBottle/condiment_bottle_low_DefaultMaterial_BaseColor.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/KetchupBottle/condiment_bottle_low_DefaultMaterial_Normal.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/KetchupBottle/condiment_bottle_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/MustardBottle/Mustard_Text_Mask.uasset",
+				"D:/GitRepos/3DUnite/3DUnite/UniteScene/Content/Materials/Clutter/KetchupBottle/Ketchup_Text_Mask.uasset"
 			]
 		}
 	]
